@@ -4,6 +4,11 @@ Website Link : https://cognifyz.com/
 
 ![Offer Letter_page-0001](https://github.com/Saquibtechlotraining/Cognifyz_Technologies_Internship_Project/assets/91885135/4b4db1e4-e4d1-43f6-accf-aaef9a94741d)
 
+### 𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
+This project presents an in-depth analysis of a comprehensive dataset focusing on various aspects of the restaurant industry. From popular cuisines to city-wise restaurant distribution, pricing trends, service offerings, and customer satisfaction levels, our analysis provides valuable insights for restaurant owners, managers, and stakeholders. By leveraging data-driven insights, we aim to optimize operational efficiency, enhance marketing strategies, and elevate overall dining experiences. Explore our findings to gain valuable insights into the dynamic landscape of the restaurant industry.
+
+![Restaurant_Image](https://github.com/Saquibtechlotraining/Cognifyz_Technologies_Internship_Project/assets/91885135/c0e8d595-7704-4ab4-a7f2-1cb8a8bfc210)
+
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗧𝗮𝘀𝗸𝘀:
 
 #### 𝗟𝗲𝘃𝗲𝗹 -𝟭 𝗧𝗮𝘀𝗸 -𝟭
