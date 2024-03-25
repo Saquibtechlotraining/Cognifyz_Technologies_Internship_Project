@@ -1,8 +1,11 @@
 # Cognifyz Technologies One Month Internship
 
-Website Link : https://cognifyz.com/
+
+
 
 ![Offer Letter_page-0001](https://github.com/Saquibtechlotraining/Cognifyz_Technologies_Internship_Project/assets/91885135/4b4db1e4-e4d1-43f6-accf-aaef9a94741d)
+
+Website Link : https://cognifyz.com/
 
 ### 𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝘀 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 This project presents an in-depth analysis of a comprehensive dataset focusing on various aspects of the restaurant industry. From popular cuisines to city-wise restaurant distribution, pricing trends, service offerings, and customer satisfaction levels, our analysis provides valuable insights for restaurant owners, managers, and stakeholders. By leveraging data-driven insights, we aim to optimize operational efficiency, enhance marketing strategies, and elevate overall dining experiences. Explore our findings to gain valuable insights into the dynamic landscape of the restaurant industry.
