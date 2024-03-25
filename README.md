@@ -1,6 +1,8 @@
 # Cognifyz Technologies One Month Internship
 
-### ➡ YouTube video where I showcase my "Restaurants Data Analysis" Project as Data Analysis Intern at Cognifyz Technologies
+### ➡ YouTube video where I showcase my "Restaurants Data Analysis" Project 
+
+[![Screenshot 2024-03-25 231436](https://github.com/Saquibtechlotraining/Cognifyz_Technologies_Internship_Project/assets/91885135/4094ff3c-5dec-49d4-9ce0-e209dd7d7765)](https://youtu.be/VDzDvQDl25s?si=N7pGuzK-VVYukFoS)
 
 
 
