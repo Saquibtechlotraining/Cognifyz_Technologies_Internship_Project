@@ -5,6 +5,7 @@
 [![Screenshot 2024-03-25 231436](https://github.com/Saquibtechlotraining/Cognifyz_Technologies_Internship_Project/assets/91885135/4094ff3c-5dec-49d4-9ce0-e209dd7d7765)](https://youtu.be/VDzDvQDl25s?si=N7pGuzK-VVYukFoS)
 
 
+![Internship_Completion_Certificate_jpg](https://github.com/Saquibtechlotraining/Cognifyz_Technologies_Internship_Project/assets/91885135/2685864e-0b9b-4438-bb62-fdb358f0d666)
 
 ![Offer Letter_page-0001](https://github.com/Saquibtechlotraining/Cognifyz_Technologies_Internship_Project/assets/91885135/4b4db1e4-e4d1-43f6-accf-aaef9a94741d)
 
